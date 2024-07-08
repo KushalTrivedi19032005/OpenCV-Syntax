@@ -1,0 +1,2 @@
+# OpenCV-Syntax
+Learning OpenCV
